@@ -1,4 +1,4 @@
-# thinkfit
+# fitnest_app
 
 A new Flutter project.
 
